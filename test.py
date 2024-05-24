@@ -3,5 +3,3 @@
 
 def printer():
     print("Hello World")
-
-print("new changes")
