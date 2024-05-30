@@ -3,4 +3,4 @@
 
 def printer():
     print("new test")
-    print("test2")
+    print("test")
