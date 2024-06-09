@@ -1,0 +1,17 @@
+# 项目标题
+
+## 介绍
+欢迎来到 **项目标题** 文档。本项目旨在通过提供全面的解决方案来解决 *X* 的问题。
+
+## 特点
+- [x] 特点 1：**加粗且重要**
+- [x] 特点 2：*斜体且强调*
+- [ ] 特点 3：[资源链接](https://example.com)
+
+## 安装
+要安装该项目，请运行以下命令：
+
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
+pip install -r requirements.txt
