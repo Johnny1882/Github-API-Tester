@@ -9,4 +9,4 @@ Welcome to the GitHub API Tester! This project is designed to help you test vari
 3. **API Testing**: Test and debug API calls to GitHub seamlessly.
 4. **Translation Feature**: Translate markdown files into multiple languages.
 
-We hope you find this tool useful for your development needs. Happy coding!!!!!!!!!!
+We hope you find this tool useful for your development needs. Happy coding!!!!!!!!!!!
