@@ -1,12 +1,47 @@
-# Github-API-Tester
+# My Website
 
-이것은 GitHub API의 테스트 저장소입니다.
+이것은 내 웹사이트입니다.
 
-GitHub API Tester에 오신 것을 환영합니다! 이 프로젝트는 GitHub API의 다양한 기능, 인증, 파일 검색 등을 테스트하는 데 도움이되도록 설계되었습니다. 이 프로젝트의 기능을 강조하는 몇 가지 포인트는 다음과 같습니다.
+## 소개
 
-1. **사용자 인증**: GitHub와 OAuth를 사용하여 사용자를 안전하게 인증합니다.
-2. **파일 관리**: 저장소 내의 파일을 검색하고 조작합니다.
-3. **API 테스트**: GitHub로 API 호출을 테스트하고 디버그합니다.
-4. **번역 기능**: 마크다운 파일을 여러 언어로 번역합니다.
+이 웹사이트는 내 자기소개와 나의 프로젝트를 소개하는 곳입니다.
 
-이 도구가 개발에 유용하게 사용되기를 바랍니다. 즐거운 코딩하세요!!!!!
+## 프로젝트
+
+- [Project A](./projects/project-a.md)
+- [Project B](./projects/project-b.md)
+- [Project C](./projects/project-c.md)
+
+## 블로그
+
+내 블로그에서 나의 생각과 경험을 공유합니다. [바로가기](https://www.myblog.com)
+
+## 연락처
+
+이메일: myemail@gmail.com
+휴대폰: 010-1234-5678
+
+---
+
+# My Website
+
+This is my website.
+
+## Introduction
+
+This website is where I introduce myself and my projects.
+
+## Projects
+
+- [Project A](./projects/project-a.md)
+- [Project B](./projects/project-b.md)
+- [Project C](./projects/project-c.md)
+
+## Blog
+
+I share my thoughts and experiences on my blog. [Visit](https://www.myblog.com)
+
+## Contact
+
+Email: myemail@gmail.com
+Phone: 010-1234-5678
