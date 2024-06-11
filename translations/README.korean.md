@@ -1,21 +1,12 @@
 # Github-API-Tester
 
-## 개요
-이 프로젝트는 Github API를 사용하여 사용자 정보와 리포지토리 정보를 가져오는 테스트를 수행하는 Python 스크립트입니다.
+이것은 GitHub API의 테스트 저장소입니다.
 
-## 사용법
-1. Python 3.x를 설치합니다.
-2. 필요한 패키지를 설치합니다. (`pip install -r requirements.txt`)
-3. `config.py` 파일을 열고 Github API 토큰을 설정합니다.
-4. `python github_api_tester.py` 명령어를 실행합니다.
+GitHub API Tester에 오신 것을 환영합니다! 이 프로젝트는 GitHub API의 다양한 기능, 인증, 파일 검색 등을 테스트하는 데 도움이되도록 설계되었습니다. 이 프로젝트의 기능을 강조하는 몇 가지 포인트는 다음과 같습니다.
 
-## 파일 구조
-- `config.py`: Github API 토큰을 포함하는 파일입니다.
-- `github_api_tester.py`: 메인 스크립트입니다.
-- `requirements.txt`: 필요한 패키지 목록입니다.
+1. **사용자 인증**: GitHub와 OAuth를 사용하여 사용자를 안전하게 인증합니다.
+2. **파일 관리**: 저장소 내의 파일을 검색하고 조작합니다.
+3. **API 테스트**: GitHub로 API 호출을 테스트하고 디버그합니다.
+4. **번역 기능**: 마크다운 파일을 여러 언어로 번역합니다.
 
-## 참고
-- Github API 문서: https://docs.github.com/en/rest
-
-## 라이센스
-MIT 라이센스를 따릅니다.
+이 도구가 개발에 유용하게 사용되기를 바랍니다. 즐거운 코딩하세요!!!!!
