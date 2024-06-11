@@ -1,12 +1,31 @@
-# Github-API-Tester
+# My Website
 
-这是用于测试GitHub API的测试存储库。
+这是我的个人网站，用于展示我的作品和分享我的想法。
 
-欢迎来到GitHub API测试工具！此项目旨在帮助您测试GitHub API的各种功能，包括身份验证、文件检索等。以下是一些重点，突出了此项目的特点：
+## 技术栈
 
-1. **用户身份验证**：使用GitHub的OAuth安全地验证用户身份。
-2. **文件管理**：检索和操作您的存储库中的文件。
-3. **API测试**：无缝测试和调试对GitHub的API调用。
-4. **翻译功能**：将markdown文件翻译成多种语言。
+- 前端：HTML、CSS、JavaScript、React
+- 后端：Node.js、Express、MongoDB
 
-我们希望您能发现这个工具对您的开发需求有用。愉快的编码！
+## 功能
+
+- 展示我的作品和项目
+- 展示我的博客文章
+- 提供联系方式
+
+## 安装
+
+1. 克隆此仓库：`git clone https://github.com/username/my-website.git`
+2. 进入仓库目录：`cd my-website`
+3. 安装依赖：`npm install`
+4. 启动应用：`npm start`
+
+## 联系我
+
+- 邮箱：myemail@example.com
+- 微信：mywechatID
+
+### 注意事项
+
+- 此应用仅用于学习和个人展示，未经允许不得用于商业用途。
+- 如有任何问题或建议，请联系我。
