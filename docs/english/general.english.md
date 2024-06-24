@@ -1,0 +1,1 @@
+This markdown file contains general information about a testing repository. It is located in the "doc" folder. The image displayed is titled "korean.png" and can be found in the "math" folder within the "doc" folder.
