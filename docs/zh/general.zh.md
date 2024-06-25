@@ -1,8 +1,8 @@
-这是一般内容：
-1. 测试存储库的一般内容
-2. 它位于doc文件夹中
+这是测试仓库的一般内容：
+1. 位于文档文件夹中。
+2. 这是一张自行车的图片。
 
-![korean](/docs/translated_images/korean.0ff0f0da309289db82c1fa814e2ea5915efb6df552ec18c77d4e71084ff60e3b.zh.png)
+![korean](/./translated_images/bicycle.3bb7a1d8f6484bb91bc7217f4a2b21b527f94930e081f9f5059aa371f9963abc.zh.png)
 
 
-免责声明：该翻译是由AI模型翻译的，可能不完美。请查看输出并进行必要的更正。
+免责声明：此翻译由AI模型翻译自原始文本，可能不完美。请检查输出并进行必要的更正。
